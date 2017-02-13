@@ -1,1 +1,10 @@
-Thursday website
+<html>
+<head>
+  <title>
+  cool website
+  </title>
+</head/
+<body>
+<p>This is my text</p>
+</body/
+</htmal>
